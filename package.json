@@ -1,0 +1,27 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "a simple chat application",
+  "main": "my first socket.io app",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mmdsharifi/chat-app"
+  },
+  "keywords": [
+    "chat",
+    "server",
+    "socket"
+  ],
+  "author": "Mohammad Sharifi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmdsharifi/chat-app/issues"
+  },
+  "homepage": "https://github.com/mmdsharifi/chat-app",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
+}
